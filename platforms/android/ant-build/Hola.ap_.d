@@ -1,0 +1,25 @@
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\Hola.ap_ \
+ : d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\drawable\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\drawable-hdpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\drawable-ldpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\drawable-mdpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\drawable-xhdpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\values\strings.xml \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\res\xml\config.xml \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\res\drawable\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\_where-is-www.txt \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\cordova.js \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\cordova_plugins.js \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\css \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\img \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\index.html \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\js \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\css\index.css \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\img\logo.png \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\assets\www\js\hola.js \
+d:\Programacion\Cordova\CordovaProjects\Hola\platforms\android\ant-build\AndroidManifest.xml \
